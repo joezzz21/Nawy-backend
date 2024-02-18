@@ -1,5 +1,5 @@
 export class CreateApartmentDto {
-    description: string;
+    title: string;
     location: string;
     price: number;
     beds: number;
